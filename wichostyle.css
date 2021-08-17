@@ -7,3 +7,9 @@
 html{
     font-size: 62.5%;
 }
+
+.header__h1--tittle{
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 2rem;
+}
